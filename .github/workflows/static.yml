@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Politique de Confidentialité</title>
+</head>
+<body>
+    <h1>Politique de Confidentialité - Para Fendri</h1>
+
+    <p>Cette politique de confidentialité explique comment l'application <strong>Para Fendri</strong> collecte, utilise et protège vos informations personnelles.</p>
+
+    <h2>Informations collectées</h2>
+    <p>Nous collectons les informations suivantes :</p>
+    <ul>
+        <li>Nom et prénom</li>
+        <li>Adresse e-mail</li>
+        <li>Localisation</li>
+        <li>Informations sur l'appareil (modèle, système d'exploitation)</li>
+    </ul>
+
+    <h2>Utilisation des informations</h2>
+    <p>Les informations collectées sont utilisées pour :</p>
+    <ul>
+        <li>Améliorer l'expérience utilisateur</li>
+        <li>Analyser l'utilisation de l'application</li>
+        <li>Fournir une assistance technique</li>
+    </ul>
+
+    <h2>Protection des données</h2>
+    <p>Nous utilisons des mesures de sécurité avancées pour protéger vos informations contre l'accès non autorisé.</p>
+
+    <h2>Contact</h2>
+    <p>Pour toute question concernant cette politique de confidentialité, contactez-nous à : <a href="mailto:contact@example.com">contact@example.com</a>.</p>
+
+    <p>Date de mise à jour : 18 mai 2025</p>
+</body>
+</html>
